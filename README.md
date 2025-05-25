@@ -1,2 +1,2 @@
 # Hitekno.com
-Web
+Store Hi Tekno
